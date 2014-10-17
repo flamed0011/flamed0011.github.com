@@ -12,13 +12,13 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : <img src='http://www.hopscotchonline.org/Game1/colors/rainbow.png' style='width:60px;padding-bottom:0px'>
+title : Test
 tagline: ... or be free
 author :
-  name : Maltretieren
+  name : flamed0011
   email : blah@email.test
-  github : username
-  twitter : username
+  github : 
+  twitter : 
   feedburner : feedname
 
 # Serve emoji locally -
@@ -42,13 +42,13 @@ production_url : https://maltretieren.github.io
 # redirect users to the https version of the website. Do not include protocol, just the domain. 
 # but: only check when on the production domain, as set in _config.yml.
 # If it is empty there is no redirect to https
-enforce_ssl: maltretieren.github.io
+enforce_ssl: 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
   version : 0.3.0
-  theme : angularui
+  theme : superhero
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -147,3 +147,4 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
